@@ -7,3 +7,5 @@ source .venc/bin/activate
 # Run requirements.txt 
 pip install -r requirements.txt 
 
+# Application deloyed on url 
+https://upma-hopscotchchatbot1-demo.streamlit.app/
